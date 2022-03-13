@@ -1,0 +1,27 @@
+.light {
+    color: white;
+}
+
+body {
+    background-color: #083b4c;
+}
+
+.bg-color {
+    background-color: #1389b2;
+    color: white;
+}
+
+.fizz-multipli-tre {
+    background-color: #0bd6a1;
+    color: white;
+}
+
+.buzz-multipli-cinque {
+    background-color: #ffd166;
+    color: white;
+}
+
+.fizzbuzz-multipli-trecinque {
+    background-color: #f0466f;
+    color: white;
+}
